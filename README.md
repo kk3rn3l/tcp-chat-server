@@ -57,8 +57,6 @@ python3 client.py
 - Messages are broadcast to **all connected clients**.
 - Type `exit` to disconnect a client.
 
-![Demo](demo.gif) *(Optional: Add a GIF showing usage)*
-
 ---
 
 ## Configuration
@@ -114,12 +112,6 @@ For production use:
    git commit -m "Add new feature"
    ```
 4. Push and submit a pull request.
-
----
-
-## License
-
-Distributed under the MIT License. See [LICENSE](LICENSE) for details.
 
 ---
 
